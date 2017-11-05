@@ -13,7 +13,14 @@ namespace App1
         {
             InitializeComponent();
 
-            MainPage = new App1.MainPage();
+            var navPage = new NavigationPage((Page)Activator.CreateInstance(typeof(Page1)));
+            var mdp = new MasterDetailPage()
+            {
+                Master = new MenuPage(),
+                Detail = navPage
+            };
+
+            MainPage = mdp;
         }
 
         protected override void OnStart()

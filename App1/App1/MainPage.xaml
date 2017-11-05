@@ -10,10 +10,6 @@
 
       <StackLayout Orientation="Vertical">
         
-        <!-- 
-             This StackLayout you can use for other
-             data that you want to have in your menu drawer
-        -->
         <StackLayout BackgroundColor="#e74c3c"
                      HeightRequest="75">
 
@@ -59,8 +55,8 @@
     </ContentPage>
   </MasterDetailPage.Master>
 
-  <MasterDetailPage.Detail>
-    <NavigationPage>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
 
     </NavigationPage>
   </MasterDetailPage.Detail>

@@ -7,10 +7,12 @@ C:\ShortApps\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.pdb
 C:\ShortApps\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
 C:\ShortApps\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\ShortApps\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\ShortApps\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.MainPage.xaml.g.cs
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.App.xaml.g.cs
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.Views.Page3.xaml.g.cs
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.Views.Page2.xaml.g.cs
+C:\ShortApps\App1\App1\App1\obj\Debug\App1.MenuPage.xaml.g.cs
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.dll
 C:\ShortApps\App1\App1\App1\obj\Debug\App1.pdb

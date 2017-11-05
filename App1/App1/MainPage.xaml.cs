@@ -21,10 +21,7 @@ namespace App1
             InitializeComponent();
 
             MenuList = new List<MasterPageItem>();
-
-            // Creating our pages for menu navigation
-            // Here you can define title for item, 
-            // icon on the left side, and page that you want to open after selection
+            
             var page1 = new MasterPageItem() { Title = "Item 1", Icon = "itemIcon1.png", TargetType = typeof(Page1) };
             var page2 = new MasterPageItem() { Title = "Item 2", Icon = "itemIcon2.png", TargetType = typeof(Page2) };
             var page3 = new MasterPageItem() { Title = "Item 3", Icon = "itemIcon3.png", TargetType = typeof(Page3) };
